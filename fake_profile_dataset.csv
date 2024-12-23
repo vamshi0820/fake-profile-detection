@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name,age,gender,is_fake
 Alice,25,Female,0
 Bob,30,Male,1
 Carol,22,Female,0
+=======
+name,age,gender,is_fake
+Alice,25,Female,0
+Bob,30,Male,1
+Carol,22,Female,0
+>>>>>>> 5fceb5685b08092d7cda4f0f108c188e5c7b2bb0
