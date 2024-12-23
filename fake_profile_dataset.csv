@@ -1,0 +1,4 @@
+name,age,gender,is_fake
+Alice,25,Female,0
+Bob,30,Male,1
+Carol,22,Female,0
